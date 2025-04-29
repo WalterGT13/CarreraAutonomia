@@ -1,0 +1,52 @@
+# =========================
+# 📦 .NET (Backend)
+# =========================
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.dbmdl
+
+# Visual Studio
+.vs/
+.vscode/
+
+# Publish
+publish/
+*.publishsettings
+
+# Entity Framework
+Migrations/
+
+# Logs
+*.log
+
+# =========================
+# 🌐 Quasar / Vue (Frontend)
+# =========================
+carrera-autonomia-front/node_modules/
+carrera-autonomia-front/dist/
+carrera-autonomia-front/.quasar/
+carrera-autonomia-front/.cache/
+carrera-autonomia-front/.env.local
+carrera-autonomia-front/.env.*.local
+
+# NPM/Yarn logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.idea/
+
+# =========================
+# 🧪 Sistema Operativo / Global
+# =========================
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.swp
+~$*
