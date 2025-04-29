@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|c:\\users\\wfcer\\desktop\\desarrolloswc\\carreraautonomia\\carreraautonomiaapi\\carreraautonomiaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|solutionrelative:carreraautonomiaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|c:\\users\\wfcer\\desktop\\desarrolloswc\\carreraautonomia\\carreraautonomiaapi\\carreraautonomiaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|solutionrelative:carreraautonomiaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|c:\\users\\wfcer\\desktop\\desarrolloswc\\carreraautonomia\\carreraautonomiaapi\\carreraautonomiaapi\\services\\registroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|solutionrelative:carreraautonomiaapi\\services\\registroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|c:\\users\\wfcer\\desktop\\desarrolloswc\\carreraautonomia\\carreraautonomiaapi\\carreraautonomiaapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|solutionrelative:carreraautonomiaapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|c:\\users\\wfcer\\desktop\\desarrolloswc\\carreraautonomia\\carreraautonomiaapi\\carreraautonomiaapi\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|solutionrelative:carreraautonomiaapi\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|c:\\users\\wfcer\\desktop\\desarrolloswc\\carreraautonomia\\carreraautonomiaapi\\carreraautonomiaapi\\models\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|solutionrelative:carreraautonomiaapi\\models\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|c:\\users\\wfcer\\desktop\\desarrolloswc\\carreraautonomia\\carreraautonomiaapi\\carreraautonomiaapi\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|solutionrelative:carreraautonomiaapi\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|c:\\users\\wfcer\\desktop\\desarrolloswc\\carreraautonomia\\carreraautonomiaapi\\carreraautonomiaapi\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|solutionrelative:carreraautonomiaapi\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|c:\\users\\wfcer\\desktop\\desarrolloswc\\carreraautonomia\\carreraautonomiaapi\\carreraautonomiaapi\\services\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|solutionrelative:carreraautonomiaapi\\services\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|c:\\users\\wfcer\\desktop\\desarrolloswc\\carreraautonomia\\carreraautonomiaapi\\carreraautonomiaapi\\services\\iregistroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|solutionrelative:carreraautonomiaapi\\services\\iregistroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|c:\\users\\wfcer\\desktop\\desarrolloswc\\carreraautonomia\\carreraautonomiaapi\\carreraautonomiaapi\\controllers\\registroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|solutionrelative:carreraautonomiaapi\\controllers\\registroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|c:\\users\\wfcer\\desktop\\desarrolloswc\\carreraautonomia\\carreraautonomiaapi\\carreraautonomiaapi\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|solutionrelative:carreraautonomiaapi\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|c:\\users\\wfcer\\desktop\\desarrolloswc\\carreraautonomia\\carreraautonomiaapi\\carreraautonomiaapi\\carreraautonomiaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29B11816-2223-4497-93C0-EC422BBE0D0C}|CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj|solutionrelative:carreraautonomiaapi\\carreraautonomiaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "CarreraAutonomiaAPI\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\Models\\Categoria.cs",
+              "RelativeToolTip": "CarreraAutonomiaAPI\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:10:22.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CarreraAutonomiaAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CarreraAutonomiaAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:41:32.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroService.cs",
+              "DocumentMoniker": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\Services\\RegistroService.cs",
+              "RelativeDocumentMoniker": "CarreraAutonomiaAPI\\Services\\RegistroService.cs",
+              "ToolTip": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\Services\\RegistroService.cs",
+              "RelativeToolTip": "CarreraAutonomiaAPI\\Services\\RegistroService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:40:52.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CarreraAutonomiaAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\appsettings.json",
+              "RelativeToolTip": "CarreraAutonomiaAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T17:43:54.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CarreraAutonomiaAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\Program.cs",
+              "RelativeToolTip": "CarreraAutonomiaAPI\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:43:16.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Configuracion.cs",
+              "DocumentMoniker": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\Models\\Configuracion.cs",
+              "RelativeDocumentMoniker": "CarreraAutonomiaAPI\\Models\\Configuracion.cs",
+              "ToolTip": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\Models\\Configuracion.cs",
+              "RelativeToolTip": "CarreraAutonomiaAPI\\Models\\Configuracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:39:53.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registro.cs",
+              "DocumentMoniker": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\Models\\Registro.cs",
+              "RelativeDocumentMoniker": "CarreraAutonomiaAPI\\Models\\Registro.cs",
+              "ToolTip": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\Models\\Registro.cs",
+              "RelativeToolTip": "CarreraAutonomiaAPI\\Models\\Registro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:39:43.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\Services\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "CarreraAutonomiaAPI\\Services\\CategoriaService.cs",
+              "ToolTip": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\Services\\CategoriaService.cs",
+              "RelativeToolTip": "CarreraAutonomiaAPI\\Services\\CategoriaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:20:57.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\Services\\ICategoriaService.cs",
+              "RelativeDocumentMoniker": "CarreraAutonomiaAPI\\Services\\ICategoriaService.cs",
+              "ToolTip": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\Services\\ICategoriaService.cs",
+              "RelativeToolTip": "CarreraAutonomiaAPI\\Services\\ICategoriaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:20:00.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRegistroService.cs",
+              "DocumentMoniker": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\Services\\IRegistroService.cs",
+              "RelativeDocumentMoniker": "CarreraAutonomiaAPI\\Services\\IRegistroService.cs",
+              "ToolTip": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\Services\\IRegistroService.cs",
+              "RelativeToolTip": "CarreraAutonomiaAPI\\Services\\IRegistroService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:40:43.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegistrosController.cs",
+              "DocumentMoniker": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\Controllers\\RegistrosController.cs",
+              "RelativeDocumentMoniker": "CarreraAutonomiaAPI\\Controllers\\RegistrosController.cs",
+              "ToolTip": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\Controllers\\RegistrosController.cs",
+              "RelativeToolTip": "CarreraAutonomiaAPI\\Controllers\\RegistrosController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAADYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:39:06.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "CarreraAutonomiaAPI\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "CarreraAutonomiaAPI\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:29:45.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarreraAutonomiaAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj",
+              "RelativeDocumentMoniker": "CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj",
+              "ToolTip": "C:\\Users\\wfcer\\Desktop\\DESARROLLOSWC\\CarreraAutonomia\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj",
+              "RelativeToolTip": "CarreraAutonomiaAPI\\CarreraAutonomiaAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T17:39:59.33Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

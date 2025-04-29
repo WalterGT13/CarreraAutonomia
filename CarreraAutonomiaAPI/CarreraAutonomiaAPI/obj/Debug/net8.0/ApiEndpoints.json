@@ -1,0 +1,79 @@
+[
+  {
+    "ContainingType": "CategoriasController",
+    "Method": "Get",
+    "RelativePath": "api/Categorias",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarreraAutonomiaAPI.Controllers.RegistrosController",
+    "Method": "Registrar",
+    "RelativePath": "api/Registros",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registro",
+        "Type": "CarreraAutonomiaAPI.Models.Registro",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarreraAutonomiaAPI.Controllers.RegistrosController",
+    "Method": "ObtenerTodos",
+    "RelativePath": "api/Registros/admin/registros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarreraAutonomiaAPI.Controllers.RegistrosController",
+    "Method": "Count",
+    "RelativePath": "api/Registros/count",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarreraAutonomiaAPI.Controllers.RegistrosController",
+    "Method": "Disponibles",
+    "RelativePath": "api/Registros/disponibles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarreraAutonomiaAPI.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CarreraAutonomiaAPI.WeatherForecast, CarreraAutonomiaAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
